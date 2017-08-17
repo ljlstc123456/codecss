@@ -2556,6 +2556,11 @@ body {
   white-space: nowrap;
   overflow: hidden;
 }
+.mycodecss .clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
 .mycodecss .text-main {
   color: #3BA080 !important;
 }
