@@ -69,7 +69,7 @@ codecss经过大量项目验证，提炼出使用频率最高的一些样式。
 ```less
 @module-name:.mycodecss;//模块命名,不能有中杠线，默认是mycodecss，你也可以根据自己的喜好修改
 ```
-
+你也可以根据自己的喜好修改和删除less中的样式
 ```html
 <!-- 创建一个宽100px 高100px，左右边距10px的div-->
 <body class="mycodecss">
