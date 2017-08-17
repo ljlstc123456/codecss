@@ -71,9 +71,10 @@ codecss经过大量项目验证，提炼出使用频率最高的一些样式。
 ```
 
 ```html
+<!-- 创建一个宽100px 高100px，左右边距10px的div-->
 <body class="mycodecss">
   <div class="w100 h100 pl10 pr10">
-  	    
+  	   
   </div>
 </body>
 ```
