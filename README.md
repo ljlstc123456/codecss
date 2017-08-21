@@ -64,7 +64,7 @@ codecss经过大量项目验证，提炼出使用频率最高的一些样式。
 
 ### 用法：
 
-为了不与已有的css样式冲突，请在src/_code.less编译的时候加上前缀哈哈
+为了不与已有的css样式冲突，请在src/_code.less编译的时候加上前缀哈哈11
 
 ```less
 @module-name:.mycodecss;//模块命名,不能有中杠线，默认是mycodecss，你也可以根据自己的喜好修改
